@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Secrets and local environment
+.env
+.env.*
+
+# Temporary outputs
+*.log
+.streamlit/secrets.toml
