@@ -5,7 +5,7 @@ A machine-learning project for analysing historical Air Quality Index (AQI) reco
 ## Project structure
 
 ```text
-AQI_Prediction_Analytics_GitHub/
+AQI Prediction/
 ├── data/
 │   ├── raw/
 │   │   └── AQI_2020_to_2025_October.csv
